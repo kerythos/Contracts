@@ -1,0 +1,35 @@
+{
+  "name": "Kerythos AI",
+  "symbol": "KYRT",
+  "description": "The sovereign utility asset powering the Kerythos AI autonomous office ecosystem. Features a revenue-backed buy-back and burn protocol.",
+  "image": "https://raw.githubusercontent.com/kerythos/Contracts/main/Assets/Token_Icon_512x512.png",
+  "attributes": [
+    {
+      "trait_type": "Ecosystem",
+      "value": "Autonomous DaaS"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Integrity",
+      "value": "Strategy Speaks Integrity"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/kerythos/Contracts/main/Assets/Token_Icon_512x512.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "[SOLANA_WALLET]",
+        "share": 100
+      }
+    ]
+  }
+}
